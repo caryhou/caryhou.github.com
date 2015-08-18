@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MAC安装Jekyll并在Github上搭建个人博客
+title: OS X
 permalink: /mac/
 ---
 # MAC安装Jekyll并在Github上搭建个人博客
