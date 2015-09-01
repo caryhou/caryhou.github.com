@@ -52,10 +52,12 @@ git push origin gh-pages
 
 4.修改后提交
 {% highlight ruby %}
-
+添加所有新增文件
+''git add .
+''提交所有修改
+''git commit -a -m "注释"
+''将修改提交到Github上
+''git push origin gh-pages
 {% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
 [project-pages]:      http://jekyllrb.com/docs/github-pages/#project-pages
 [ruby-taobao]:   http://ruby.taobao.org/
