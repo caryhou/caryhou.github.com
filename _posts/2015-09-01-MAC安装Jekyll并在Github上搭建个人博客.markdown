@@ -53,11 +53,11 @@ git push origin gh-pages
 4.修改后提交
 {% highlight ruby %}
 添加所有新增文件
-''git add .
-''提交所有修改
-''git commit -a -m "注释"
-''将修改提交到Github上
-''git push origin gh-pages
+git add .
+提交所有修改
+git commit -a -m "注释"
+将修改提交到Github上
+git push origin gh-pages
 {% endhighlight %}
 [project-pages]:      http://jekyllrb.com/docs/github-pages/#project-pages
 [ruby-taobao]:   http://ruby.taobao.org/
